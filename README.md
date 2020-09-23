@@ -1,6 +1,21 @@
 # prokifu
 Репозиторий содержит ссылки на записи партий профессиональных игроков в го, которые показались мне интересными.
 
+# Классные партии
+
+http://gokifu.com/s/349i-gokifu-20200420-Xie_Ke(8p)-Lian_Xiao(9p).html
+
+http://gokifu.com/s/37px-gokifu-20200614-Mi_Yuting(9p)-Tang_Weixing(9p).html
+
+http://gokifu.com/s/3801-gokifu-20200825-Shin_Jinseo(9p)-Jiang_Weijie(9p).html
+
+http://gokifu.com/s/383c-gokifu-20200901-Wang_Zejin(6p)-Li_Xuanhao(7p).html
+
+http://gokifu.com/s/383c-gokifu-20200901-Wang_Zejin(6p)-Li_Xuanhao(7p).html
+
+http://gokifu.com/s/383w-gokifu-20200909-Gu_Zihao(9p)-Kono_Rin(9p).html
+
+
 # Список ссылок на кифу
 
 http://gokifu.com/s/31m4-gokifu-20200317-Han_Yizhou(8p)-Xu_Jiayang(8p).html
